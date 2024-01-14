@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Homework4");
+        System.out.println("Hw4");
         //Задача 1
         {
             int age = 13;
@@ -76,6 +76,7 @@ public class Main {
         } else {
             System.out.println("Наибольшее число " + three);
         }
+
 
 
     }
